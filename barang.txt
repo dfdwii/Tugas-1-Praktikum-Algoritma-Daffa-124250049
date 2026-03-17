@@ -1,0 +1,6 @@
+Puding coklat,5000,20
+Es Coklat Khas Boyolali,35000,60
+Coklat Bubuk Premium,15600,40
+Kue Coklat Vanilla,15000,30
+Milkshake Coklat Mojokerto,30000,1
+Soes Coklat,100000,57
